@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CDK as a Layer",
   "dependencies": {
-    "aws-cdk": "^1.22.0"
+    "aws-cdk": "^1.174.0"
   },
   "devDependencies": {},
   "author": "Campion Fellin",
